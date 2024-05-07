@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "593121909679",
+    "project_id": "sigma-myth-415413",
+    "storage_bucket": "sigma-myth-415413.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593121909679:android:034315a010f6dad93f6d5a",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKPlkUD6bEUcGJwexvygMeav8fOmQQEmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593121909679:android:ca2e14c80017c3f43f6d5a",
+        "android_client_info": {
+          "package_name": "com.mycompany.batmanworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKPlkUD6bEUcGJwexvygMeav8fOmQQEmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593121909679:android:fbb922f3ecfda94f3f6d5a",
+        "android_client_info": {
+          "package_name": "com.mycompany.ffeducation101"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKPlkUD6bEUcGJwexvygMeav8fOmQQEmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
